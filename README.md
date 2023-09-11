@@ -1,12 +1,13 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Surjendu Kar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 
 <div align="center">
     <img width="35%" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="35%" height="200px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
 </div>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
 
