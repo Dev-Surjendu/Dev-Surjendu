@@ -19,7 +19,8 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://dev-surjendu.github.io/portfolio">myPortfolio</a>
 
-- Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a>
+- [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" width="20" height="20" style="vertical-align: text-bottom; margin-right: 5px;"/>](https://www.facebook.com/rk.kar.313) Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a>
+
 <br/>
 
 <div style="margin-bottom: 20px;">
