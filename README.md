@@ -4,8 +4,7 @@
 <br/>
 
 <div align="center">
-    <img width="35%" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="35%" height="200px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+    <img width="40%" height="250px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
 </div>
 <br/>
 
@@ -13,13 +12,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 - 🌱 I’m currently learning **React-js**
-
 - 📫 How to reach me **rahulkar9988@gmail.com**
+- 👨‍💻 All of my projects are available at [myPortfolio](https://dev-surjendu.github.io/portfolio)
+- [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" width="20" height="20" style="vertical-align: text-bottom; margin-right: 5px;"/>](https://www.facebook.com/rk.kar.313) Facebook: [Surjendu kar](https://www.facebook.com/rk.kar.313)
 
-- 👨‍💻 All of my projects are available at <a href="https://dev-surjendu.github.io/portfolio">myPortfolio</a>
-
-- [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" width="20" height="20" style="vertical-align: text-bottom; margin-right: 5px;"/>](https://www.facebook.com/rk.kar.313) Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a>
+    </td>
+    <td valign="top" width="50%">
+      <div align="right">
+    <img width="80%" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <div style="margin-bottom: 20px;">
