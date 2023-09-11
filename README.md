@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-    <img width="40%" height="250px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+    <img width="45%" height="250px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
 </div>
 <br/>
 
