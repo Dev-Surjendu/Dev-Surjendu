@@ -21,11 +21,11 @@
 <p style="margin-top: 0;">Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-surjendu&show_icons=true&locale=en&layout=compact" alt="dev-surjendu" /></p>
+![Dev-Surjendu's Stats](https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-surjendu&show_icons=true&locale=en" alt="dev-surjendu" /></p>
+![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-surjendu&" alt="dev-surjendu" /></p>
+![Dev-Surjendu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Languages and Tools:
 
