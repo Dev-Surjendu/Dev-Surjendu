@@ -1,12 +1,14 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Surjendu Kar</h1>
-
+<br/>
 
 <div align="center">
     <img width="35%" height="200px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="35%" height="200px" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
 </div>
+<br/>
+
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-surjendu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-surjendu" /> </p>
@@ -17,15 +19,19 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://dev-surjendu.github.io/portfolio">myPortfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-<p style="margin-top: 0;">Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a></p>
+- Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a>
+<br/>
 
-
-![Dev-Surjendu's Stats](https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div style="margin-bottom: 20px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Dev-Surjendu's Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Dev-Surjendu's Top Languages" />
+</div>
+<br clear="left"/>
+<br/>
+<br/>
 
 ![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=true)
 
-![Dev-Surjendu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Languages and Tools:
 
