@@ -22,16 +22,15 @@
 - [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook" width="20" height="20" style="vertical-align: text-bottom; margin-right: 5px;"/>](https://www.facebook.com/rk.kar.313) Facebook: <a href="https://www.facebook.com/rk.kar.313">Surjendu kar</a>
 
 <br/>
-
 <div style="margin-bottom: 20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Dev-Surjendu's Stats" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Dev-Surjendu's Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Dev-Surjendu's Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Dev-Surjendu's Top Languages" />
 </div>
 <br clear="left"/>
 <br/>
 <br/>
 
-![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=true)
+![Dev-Surjendu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Surjendu&theme=vue-dark&hide_border=false)
 
 
 ### Languages and Tools:
