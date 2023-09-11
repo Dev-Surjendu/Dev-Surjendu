@@ -24,7 +24,7 @@
     </td>
     <td valign="top" width="50%">
       <div align="right">
-    <img width="80%" height="190px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80%"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
     </td>
   </tr>
