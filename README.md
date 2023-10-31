@@ -31,10 +31,12 @@
 </table>
 
 <br/>
-<div style="margin-bottom: 20px;">
+<div align="center">
+    <div style="margin-bottom: 20px;">
 <!--     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Dev-Surjendu's Stats" /> -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Dev-Surjendu's Top Languages" />
-</div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Surjendu&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Dev-Surjendu's Top Languages" />
+    </div>
+    </div>
 <br clear="left"/>
 <br/>
 <br/>
